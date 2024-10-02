@@ -1,10 +1,10 @@
 @keyframes color-change {
     0% {
-      color: blue;
+      color: rgb(31, 31, 83);
     }
   
     50% {
-      color: red;
+      color: rgb(51, 45, 129);
     }
   
     100% {
@@ -17,11 +17,6 @@ body {
     font-size: 11px; /* El tamaño de la fuente principal en el tag <p></p> */
     background-color: #ffffff; /* El color del fondo de la página web */
     color: #333333; /* El color del texto*/ 
-}
-h1 {
-    color: #131042; /* El color de la cabecera */
-    font-size: 24px; /* El tamaño de la fuente de la cabecera */
-    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
 }
 
 h1:hover {
